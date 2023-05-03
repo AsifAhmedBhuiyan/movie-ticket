@@ -2,8 +2,63 @@
   "results": [
     {
       "title": "Eternals",
-      "year": 2021
-      
+      "year": 2021,
+      "img": "https://github.com/mrspecht/media/blob/main/img/eternals.jpg"
+    },
+    {
+      "title": "Fast and Furious 9",
+      "year": 2021,
+      "img": "https://github.com/mrspecht/media/blob/main/img/f9-the-fast-saga.jpg"
+    },
+    {
+      "title": "JFK",
+      "year": 2021,
+      "img": "https://github.com/mrspecht/media/blob/main/img/jfk.jpg"
+    },
+    {
+      "title": "No time to die",
+      "year": 2021,
+      "img": "https://github.com/mrspecht/media/blob/main/img/no-time-to-die.jpg"
+    },
+    {
+      "title": "Matrix resurrection",
+      "year": 2021,
+      "img": "https://github.com/mrspecht/media/blob/main/img/the-matrix.jpg"
+    },
+    {
+      "title": "Spider man - No way home",
+      "year": 2021,
+      "img": "https://github.com/mrspecht/media/blob/main/img/spider-man-no-way-home.jpg"
+    },
+    {
+      "title": "The Batman",
+      "year": 2022,
+      "img": "https://github.com/mrspecht/media/blob/main/img/the-batman.jpg"
+    },
+    {
+      "title": "The Exorcist",
+      "year": 1973,
+      "img": "https://github.com/mrspecht/media/blob/main/img/the-exorcist.jpg"
+    },
+    {
+      "title": "The Flash",
+      "year": 2014,
+      "img": "https://github.com/mrspecht/media/blob/main/img/the-flash.jpg"
+    },
+    {
+      "title": "The Godfather",
+      "year": 1972,
+      "img": "https://github.com/mrspecht/media/blob/main/img/the-godfather.jpg"
+    },
+    {
+      "title": "Jurassic Park",
+      "year": 2021,
+      "img": "https://github.com/mrspecht/media/blob/main/img/jurassic-park.jpg"
+    },
+    {
+      "title": "Ocean's Eleven",
+      "year": 2001,
+      "img": "https://github.com/mrspecht/media/blob/main/img/oceans-eleven.jpg"
     }
   ]
 }

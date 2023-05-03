@@ -1,3 +1,74 @@
 @import url("./reset.css");
 
 
+header {
+  background-color: #262930;
+}
+
+header .flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.title h1 {
+  font-size: 20px;
+  font-weight: 400;
+  color: #fff;
+  letter-spacing: 0.2px;
+  text-transform: uppercase;
+  line-height: 56px;
+  margin-left: 70px;
+}
+
+nav ul {
+  list-style: none;
+  font-size: 0;
+}
+
+nav ul li{
+  display: inline;
+  line-height: 56px;
+}
+
+nav ul li a {
+  color: #fff;
+  font-size: 17px;
+  font-weight: 600;
+  text-decoration: none;
+  letter-spacing: 0.2px;
+  transition: color 0.25s ease-in-out;
+}
+
+nav ul li + li {
+  margin-left: 20px;
+}
+
+body {
+  background-color: #191C24;
+}
+
+main {
+  margin-top: 30px;
+  margin-left: 200px;
+}
+
+input[type=text] {
+  background-color: #262930;
+  height: 40px;
+  color: #fff;
+  font-size: 16px;
+  padding: 10px;
+  width: 500px;
+}
+
+button {
+  color: #fff;
+  background-color: #F17930;
+  font-weight: 500;
+  height: 40px;
+  width: 80px;
+  cursor: pointer;
+}
+
+
+

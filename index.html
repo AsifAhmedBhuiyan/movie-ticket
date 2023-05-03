@@ -7,10 +7,32 @@
       <meta name="description" content="purchasing movie ticket">
       <meta name="keywords" content="html, css, web, web development,seo">
       <title>Movie Ticket</title>
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Lora&display=swap" >
       <link rel="stylesheet" href="./assets/style/index.css" media="all">
       <script src="./assets/script/index.js" type="module"></script>
    </head>
     <body>
-      
+      <header>
+         <div class="container flex">
+             <div class="title">
+                 <h1>Tickets</h1>
+             </div>
+             <nav>
+                 <ul>
+                     <li><a href="#">Movies</a></li>
+                     <li><a href="#">Theaters</a></li>
+                     <li><a href="#">About us</a></li>
+                     <li><a href="#">My account</a></li>
+                 </ul>
+             </nav>
+         </div>
+     </header> 
+     <main>
+         <input type="text" class="search" placeholder="Search movies...">
+         <input type="text" class="city" placeholder="City">
+         <button>Search</button>
+     </main>
     </body>
  </html>
