@@ -1,0 +1,64 @@
+{
+  "results": [
+    {
+      "title": "Eternals",
+      "year": 2021,
+      "img": "./assets/images/eternals.jpg"
+    },
+    {
+      "title": "Fast and Furious 9",
+      "year": 2021,
+      "img": "./assets/images/f9.jpg"
+    },
+    {
+      "title": "JFK",
+      "year": 2021,
+      "img": "./assets/images/jfk.jpg"
+    },
+    {
+      "title": "No time to die",
+      "year": 2021,
+      "img": "./assets/images/no time.jpg"
+    },
+    {
+      "title": "Matrix resurrection",
+      "year": 2021,
+      "img": "./assets/images/matrix.jpg"
+    },
+    {
+      "title": "Spider man - No way home",
+      "year": 2021,
+      "img": "./assets/images/spider-man.jpg"
+    },
+    {
+      "title": "The Batman",
+      "year": 2022,
+      "img": "./assets/images/the-batman.jpg"
+    },
+    {
+      "title": "The Exorcist",
+      "year": 1973,
+      "img": "./assets/images/the-exorcist.jpg"
+    },
+    {
+      "title": "The Flash",
+      "year": 2014,
+      "img": "./assets/images/the-flash.jpg"
+    },
+    {
+      "title": "The Godfather",
+      "year": 1972,
+      "img": "./assets/images/the-godfather.jpg"
+    },
+    {
+      "title": "Jurassic Park",
+      "year": 2021,
+      "img": "./assets/images/jurassic-park.jpg"
+    },
+    {
+      "title": "Ocean's Eleven",
+      "year": 2001,
+      "img": "./assets/images/oceans-eleven.jpg"
+    }
+  ]
+}
