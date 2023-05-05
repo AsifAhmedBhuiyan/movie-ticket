@@ -1,12 +1,12 @@
 ### Hello there
 
-Welcome to my project. 
+Welcome to my project. I develop a website for buying movie tickets.
 
 
 ### Demo
 
 
-Click [here](https:///) to test the application
+Click [here](https://asifahmedbhuiyan.github.io/movie-ticket/) to test the application
 
 
 <br/>
